@@ -24,3 +24,16 @@ ul {
 .logo-web {
     color: #4D5AE5;
 }
+.nav-link {
+    color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.address-info {
+    color: #434455;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}

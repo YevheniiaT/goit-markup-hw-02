@@ -109,6 +109,9 @@ letter-spacing: 0.02em;
 .section-our-team {
 background-color: var(--bcg-color-light);  
 }
+.our-team-bcg {
+    background-color: #FFFFFF;
+}
 .our-team-title {
     color: var(--color-brand);
    font-size: 36px;
@@ -117,7 +120,7 @@ background-color: var(--bcg-color-light);
    letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-background-color: #FFFFFF;
+
 }
 .our-team-name {
     color: var(--color-brand);
@@ -126,7 +129,6 @@ background-color: #FFFFFF;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #FFFFFF;
 }
 .our-team-position {
     color: var(--color-primery);

@@ -35,8 +35,8 @@ address {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.logo-studio{
-    color: var(--color-brand);
+.logo-studio {
+   color: var(--color-brand);
 }
 .nav-link {
     color: var(--color-brand);
@@ -162,13 +162,14 @@ text-align: center
 }
 .logo-footer {
     color: var(--color-logo-button);
-        font-family: Raleway;
+        font-family: 'Raleway',
+                sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.logo-studio { 
+.footer-logo-studio { 
     color: var(--color-primery-light);
 }

@@ -109,6 +109,9 @@ letter-spacing: 0.02em;
 .section-our-team {
 background-color: var(--bcg-color-light);  
 }
+.our-team-bcg {
+    background-color: #FFFFFF;
+}
 .our-team-title {
     color: var(--color-brand);
    font-size: 36px;

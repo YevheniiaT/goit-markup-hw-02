@@ -12,7 +12,7 @@ a {
 ul {
     list-style-type: none;
 }
-/* Header and logo*/
+/* Header */
 .logo {
     color: #2E2F42;
     font-family: Raleway;
@@ -118,4 +118,26 @@ text-align: center
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+/* Footer */
+.footer {
+    background-color: #2E2F42;
+}
+.footer-text {
+    color: #F4F4FD;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.logo-footer {
+    color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+.logo-web-footer {
+   color: #F4F4FD; 
 }

@@ -31,7 +31,7 @@ address {
         sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -44,8 +44,11 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.nav-link:hover {
+    color: #404bbf;
+}
 .nav-link:active {
-    color: var(--color-hover-active);
+    color: #404bbf;
 }
 .address-info {
     color: var(--color-primery);
@@ -83,6 +86,9 @@ letter-spacing: 0.02em;
 .button:hover {
     background-color: var(--color-hover-active);
 }
+.button:focus {
+    background-color: #404BBF;
+}
 /* Strategy section */
 
 .strategy-title {
@@ -101,6 +107,9 @@ letter-spacing: 0.02em;
 /* Our team section */
 .section-our-team {
 background-color: var(--bcg-color-light);  
+}
+.our-team-list {
+    background-color: var(--color-primery-light);
 }
 .our-team-title {
     color: var(--color-brand);
@@ -171,5 +180,5 @@ text-align: center
         text-transform: uppercase;
 }
 .footer-logo-studio { 
-    color: var(--color-primery-light);
+    color: var(--bcg-color-light);
 }

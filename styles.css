@@ -12,6 +12,7 @@ a {
 ul {
     list-style-type: none;
 }
+/* Header */
 .logo {
     color: #2E2F42;
     font-family: Raleway;
@@ -37,6 +38,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
+/* hero section */
 .hero-section {
     background-color: #2E2F42;
 }
@@ -53,4 +55,17 @@ letter-spacing: 0.02em;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+}
+/* Strategy section */
+.strategy-title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.strategy-text {
+    color: #434455;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

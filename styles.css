@@ -139,7 +139,7 @@ text-align: center
     letter-spacing: 0.02em;
 }
 .logo-footer {
-    color: var(--color-logo-button);
+    color: var(--color-primery-light);
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
@@ -148,5 +148,5 @@ text-align: center
         text-transform: uppercase;
 }
 .logo-web-footer {
-   color: var(--color-primery-light); 
+    color: var(--color-logo-button);
 }

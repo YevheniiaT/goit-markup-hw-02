@@ -38,14 +38,15 @@ address {
 .logo-studio {
    color: var(--color-brand);
 }
-.list-nav-link:focus {
-color: #404bbf;
-}
+
 .nav-link {
     color: var(--color-brand);
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.nav-link:focus {
+color: #404bbf;
 }
 .nav-link:hover {
     color: #404bbf;
@@ -65,7 +66,7 @@ color: #404bbf;
 }
 .address-info-mail:focus{
 color:#404bbf;
-} ;
+} 
 .address:hover {
 color: #404bbf;
 }

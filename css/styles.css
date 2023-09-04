@@ -60,6 +60,12 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
+.address-info-mail:hover {
+color: #404bbf;
+}
+.address-info-mail:focus{
+color:#404bbf;
+} ;
 .address:hover {
 color: #404bbf;
 }

@@ -38,7 +38,6 @@ address {
 .logo-studio {
    color: var(--color-brand);
 }
-
 .nav-link {
     color: var(--color-brand);
     font-weight: 500;
@@ -75,6 +74,12 @@ address:focus {
 }
 .address-info:active {
     color: var(--color-hover-active);
+}
+.address-info:hover {
+    color: #404bbf;
+}
+.address-info:focus {
+    color: #404bbf;
 }
 /* hero section */
 .hero-section {
